@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zyad-yousef
 - 👀 I’m interested in MERN stack development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on building Responsive websites
 - 📫 How to reach me
   [LinkedIn](https://www.linkedin.com/in/zyad-yousef-5180572a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
